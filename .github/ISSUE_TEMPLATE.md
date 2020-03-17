@@ -3,7 +3,7 @@
 
 - 类别：请从中选择（C、C#、C++、CSS、Go、Java、JS、Kotlin、Objective-C、PHP、Python、Ruby、Swift、其它、书籍、机器学习）
 
-- 项目后续更新计划：
+- 项目后续更新计划：ujhiu
 
 - 项目描述：
   - 必写：这是个什么项目、能用来干什么、有什么特点或解决了什么痛点
